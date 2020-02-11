@@ -12,6 +12,10 @@
 
 }
 
+.textSize {
+    font-size: 3rem;
+}
+
 [data-icon]:before {
     font-family: "linea-basic-10" !important;
     content: attr(data-icon);
@@ -843,7 +847,7 @@ body {
 }
 
 .paragraph {
-    font-size: 1.6rem;
+    font-size: 2.0rem;
 }
 
 .paragraph:not(:last-child) {
